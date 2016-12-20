@@ -32,3 +32,5 @@ Must be one of the following:
 * **test**: Adding missing or correcting existing tests
 * **chore**: Changes to the build process or auxiliary tools and libraries such as documentation
   generation
+
+Other changes
